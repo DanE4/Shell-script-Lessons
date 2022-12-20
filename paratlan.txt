@@ -1,0 +1,6 @@
+1 :
+3 : #!/bin/sh
+5 : szam=$1
+7 : do
+9 : szam=`expr $szam + 1`
+11 :

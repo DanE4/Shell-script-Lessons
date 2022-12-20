@@ -1,0 +1,6 @@
+2 :
+4 :
+6 : while [ `expr $szam % 17` -ne 0 ]
+8 : echo $szam
+10 : done
+12 :
