@@ -1,0 +1,1 @@
+sry de ezek nem lettek kategorizálva, mint látod :DD
