@@ -1,0 +1,51 @@
+gyak4
+Scriptek
+
+pl: 
+
+-vim elso.sh
+-bash elso.sh
+vagy 
+-sh elso.sh
+
+execute jog:
+
+- chmod u+x elso.sh
+then: ./elso.sh
+
+#!/bin/sh
+
+# :komment
+
+
+változó létrehozás: 
+kedvenc=asd
+
+echo $szamrend
+
+vi .profile
+
+vim params.sh
+
+.params.sh
+
+./params.sh asd
+
+echo osszes   $*
+echo db: $#
+
+
+getent passwd
+
+stream/pipeline: 
+grep: filter
+getent passwd | grep valaki
+^valaki  = első sor
+count=   |wc -l
+
+számok összeadása 
+
+
+
+
+

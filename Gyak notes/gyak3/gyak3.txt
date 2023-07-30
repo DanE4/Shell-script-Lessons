@@ -1,0 +1,60 @@
+gyak3
+
+find . -name *.txt. -> FIND
+
+ps    -> processes
+
+ps aux
+jobs - megállított alkalmazások
+
+ctrl Z megállítás, nem leállítás
+
+sleep 10
+ctrl C
+
+fg % ide a jobid
+
+háttérbe futásba tevés
+jobs id-> jobs command
+ctrl Z ->ps aux (job idd)
+-> bg %(job id) (background)
+
+&: background
+ezt 1 linerbe : —> sleep 100 &
+
+full screen feladatkezelő:  —>  top
+
+htop: színes
+
+
+kill (processid)
+
+kill -SIGKILL (processid)
+
+kill -l
+listázza a cuccokat pl
+
+kill -9
+
+SZÖVEGSZERKESZTÉS
+
+
+cat >omg.txt
+lol
+lollll
+
+ctrl d :file vége
+
+pico p.txt /vagy nano
+
+who ——kik vannak bejelentkezve
+
+finger —felhasznalo cuccai
+
+linux messenger
+
+mesg y vagy n
+talk xy
+
+kövi: scriptek, 4. gyak után ZH
+
